@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+<p>I’m Yafei (Jeffrey) Hu. I’m currently a PhD student at CMU. I work with <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/"> Prof. Sebastian Scherer</a> in CMU Robotics Institute. I’m interested in perception, reinforcement learning and decision making for robotics.
+</p>
+
+You can know more about me via:
+<p style="text-align:center">
+  <a href="https://jeffreyyh.github.io/">My website</a> &nbsp/&nbsp
+  <a href="https://scholar.google.com/citations?user=1s8jWIsAAAAJ&hl=en">Google Scholar</a> &nbsp/&nbsp
+  <a href="https://twitter.com/YafeiHuCMU">Twitter</a> &nbsp/&nbsp
+  <a href="https://www.linkedin.com/in/yafei-h-56398989/">Linkedin</a>
+</p>
+
 <!--
 **JeffreyYH/JeffreyYH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
