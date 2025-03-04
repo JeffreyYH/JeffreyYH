@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>I’m Yafei Hu. I’m currently a PhD student at CMU. I work with <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/"> Prof. Sebastian Scherer</a> in CMU Robotics Institute. I’m interested in perception, reinforcement learning and decision making for robotics.
+<p>I’m Yafei Hu. I’m currently a PhD student at CMU. I’m interested in 3D perception, RL and decision making for robotics.
 </p>
 
 You can know more about me via:
