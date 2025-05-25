@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>I’m Yafei Hu. I’m currently a PhD student at CMU. I’m interested in 3D perception, RL and decision making for robotics.
+<p>I’m Yafei Hu. I’m a robotic researcher interested in 3D perception robotics, and how motion planning and RL policy learning could benefit from 3D perception. I currenly work at the RAI institute as a research scientist and I did my PhD at CMU. 
 </p>
 
 You can know more about me via:
